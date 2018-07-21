@@ -1,0 +1,10 @@
+{
+  "rc":"00",
+  "status":"success",
+  "data":{
+    "suhu":"50",
+    "humid":"10",
+    "volt":"220",
+    "amp":"2"
+  }
+}
